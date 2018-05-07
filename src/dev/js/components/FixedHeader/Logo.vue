@@ -6,7 +6,7 @@
   @mouseleave="mouseLeave"
   id="Logo"
   ref="square" >
-    <div class="text" ref="text">BL</div>
+    <div class="text" ref="text">VK</div>
   </a>
 </template>
 

@@ -8,16 +8,8 @@
     "dev": "webpack-dev-server --hot --progress --config webpack.config.dev.js",
     "lint": "eslint src"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/BorisLaporte/portfolio-vuejs.git"
-  },
-  "author": "Boris Laporte <boris.laporte@protonmail.com>",
+  "author": "Varun Kakkar <vnkakkar7@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/BorisLaporte/portfolio-vuejs/issues"
-  },
-  "homepage": "https://github.com/BorisLaporte/portfolio-vuejs#readme",
   "devDependencies": {
     "babel-core": "^6.23.1",
     "babel-eslint": "^7.1.1",
