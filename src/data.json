@@ -11,13 +11,6 @@
     "mail": {
       "name": "vnkakkar7@gmail.com",
       "url":  "mailto:vnkakkar7@gmail.com"
-    },
-    "design": {
-      "text": "Design by",
-      "author": {
-        "name": "Pauline Taveneau",
-        "url": "http://paulinetaveneau.fr/home"
-      }
     }
   },
   "links": [
@@ -53,7 +46,7 @@
       "title": "Building Scalable APIs",
       "desc": "Building scalable, secure & fast REST API's\n\rfor Production Applications",
       "kind": "Skill",
-      "thumbnail": "./ronanpolin.png",
+      "thumbnail": "",
       "technos": ["NodeJs", "ExpressJs", "MongoDB", "Chai"],
       "mentions": [
       ],
@@ -68,7 +61,7 @@
       "title": "Application Architechture & Testing",
       "desc": "I can make secure, scalable and Production Ready\n\rApplication Architechtures which serve as\n\ra robust face for any company.",
       "kind": "Skill",
-      "thumbnail": "./lipsty.png",
+      "thumbnail": "",
       "technos": ["NodeJs", "HapiJs", "EmberJs"],
       "mentions": [],
       "date": "",
@@ -82,7 +75,6 @@
       "title": "Development Operations",
       "desc": "I manage DevOps for a product based Startup\n\rand i use Technologies Such as TravisCI & Azure\n\rfor Deployment Environment.",
       "kind": "Dev Ops",
-      "thumbnail": "./claudeshannon.png",
       "technos": ["Azure", "Travis", "Git", "Socket.io"],
       "mentions": [
       ],
